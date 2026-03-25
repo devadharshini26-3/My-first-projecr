@@ -1,1 +1,1 @@
-# My-first-projecr
+print("hello python")
